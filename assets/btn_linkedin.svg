@@ -1,0 +1,20 @@
+<svg viewBox="0 0 250 52" width="250" height="52" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LINKEDIN: CONNECT">
+  <defs>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace; }
+    .lab { font-size: 12.5px; font-weight: 800; letter-spacing: 2px; fill: #8b949e; }
+    .sub { font-size: 13.5px; font-weight: 800; letter-spacing: 1px; fill: #00d2ff; }
+    .arrow { fill: #00d2ff; animation: nudge 1.6s ease-in-out infinite; }
+    @keyframes nudge { 0%,100% { transform: translateX(0); } 50% { transform: translateX(4px); } }
+  </style>
+  <rect x="2" y="2" width="246" height="48" rx="10" fill="#0d1117" stroke="#00d2ff" stroke-opacity="0.55" stroke-width="1.6"/>
+  <rect x="2" y="2" width="5" height="48" rx="2.5" fill="#00d2ff" opacity="0.9"/>
+  <text x="22" y="32" class="mono lab">LINKEDIN //</text>
+  <text x="137" y="32" class="mono sub" filter="url(#glow)">CONNECT</text>
+  <path class="arrow" d="M 220 19 l 10 7 l -10 7 z"/>
+</svg>
