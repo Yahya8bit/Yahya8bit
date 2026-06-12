@@ -25,37 +25,19 @@
   <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/skill_tree.svg" alt="Skill tree with XP bars" width="100%" />
 </p>
 
-<details>
-<summary><b>🎒 OPEN INVENTORY — Tools & Platforms</b></summary>
-<br>
-
 <p align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-FE315D?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-9775FA?style=for-the-badge&logo=datagrip&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-00CDD7?style=for-the-badge&logo=clion&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-1F1F2E?style=for-the-badge&logo=c&logoColor=white)
-
+  <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/inventory.svg" alt="Inventory: tools and platforms" width="100%" />
 </p>
-</details>
 
 <br>
 
 ## `> QUESTS_COMPLETED.log`
 
-| STATUS | QUEST | LOOT | XP |
-|:------:|-------|------|:--:|
-| ✅ | **[Project Name]** — one-line epic description | `Python` `FastAPI` | +500 |
-| ✅ | **[Project Name]** — one-line epic description | `Java` `Spring Boot` | +450 |
-| ⏳ | **[Project Name]** — currently in development... | `HuggingFace` | +??? |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/quests.svg" alt="Completed quests" width="100%" />
+</p>
+
+> ✏️ To customize: open `assets/quests.svg` and edit the `[ PROJECT NAME ]` and description text directly — it's plain text inside the file.
 
 <br>
 
@@ -101,15 +83,11 @@
 <br>
 
 <p align="center">
-  <code>GAME OVER? NEVER. ── CONTINUE? [YES] ◂</code>
+  <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/footer.svg" alt="Game over? Never." width="100%" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yahya8bit&color=00ff9f&style=flat-square&label=PLAYERS+VISITED" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0f0c29,50:302b63,100:24243e&section=footer" />
 </p>
 <h1>Contribution Snake</h1>
 
