@@ -25,6 +25,10 @@
   <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/skill_tree.svg" alt="Skill tree with XP bars" width="100%" />
 </p>
 
+<br>
+
+## `> INVENTORY.bag`
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/inventory.svg" alt="Inventory: tools and platforms" width="100%" />
 </p>
@@ -34,27 +38,33 @@
 ## `> QUESTS_COMPLETED.log`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/quests.svg" alt="Completed quests" width="100%" />
+  <a href="https://github.com/Yahya8bit?tab=repositories">
+    <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/quest_board.svg" alt="Completed quests / projects" width="100%" />
+  </a>
 </p>
 
-> ✏️ To customize: open `assets/quests.svg` and edit the `[ PROJECT NAME ]` and description text directly — it's plain text inside the file.
+> ✏️ To customize: open `assets/quest_board.svg` and edit the `PROJECT NAME` and description text directly — it's plain text inside the file.
 
 <br>
 
 ## `> HIGH_SCORES.dat`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yahya8bit&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahya8bit&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9f" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yahya8bit&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=c9d1d9&ring_color=00ff9f&custom_title=PLAYER%20STATS&rank_icon=percentile" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahya8bit&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=c9d1d9&custom_title=LOADOUT%20USAGE&langs_count=6" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahya8bit&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahya8bit&hide_border=true&background=0d1117&stroke=21262d&ring=00ff9f&fire=ffd24a&currStreakNum=00ff9f&currStreakLabel=00ff9f&sideNums=c9d1d9&sideLabels=8b949e&dates=6e7681" width="55%" />
 </p>
 
-<!-- 🐍 BONUS LEVEL: contribution snake — uncomment after adding the workflow
-<p align="center"><img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/output/github-contribution-grid-snake-dark.svg" /></p>
--->
+<br>
+
+## `> BONUS_LEVEL.snk`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/output/github-contribution-grid-snake-dark.svg" alt="Neon contribution snake" width="100%" />
+</p>
 
 <br>
 
@@ -66,17 +76,11 @@
 
 <br>
 
-<a href="https://github.com/Yahya8bit">
-  <img src="https://img.shields.io/badge/GITHUB-Yahya8bit-0d1117?style=for-the-badge&logo=github&logoColor=00ff9f" />
-</a>
+<a href="https://github.com/Yahya8bit"><img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/btn_github.svg" alt="GitHub: Yahya8bit" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9f" />
-</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/btn_linkedin.svg" alt="LinkedIn: connect" /></a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/EMAIL-Say%20Hi-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9f" />
-</a>
+<a href="mailto:YOUR_EMAIL"><img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/btn_email.svg" alt="Email: say hi" /></a>
 
 </div>
 
@@ -89,13 +93,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yahya8bit&color=00ff9f&style=flat-square&label=PLAYERS+VISITED" />
 </p>
-<h1>Contribution Snake</h1>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" 
-    src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/output/github-contribution-grid-snake.svg" />
-</picture>
