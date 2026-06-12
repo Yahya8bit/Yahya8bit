@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>CONTRIBUTION SNAKE</h1>
+<h1>Contribution Snake</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
