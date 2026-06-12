@@ -1,10 +1,6 @@
 <!-- ░▒▓ PRESS START ▓▒░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f0c29,50:302b63,100:24243e&text=YAHYA8BIT&fontColor=00ff9f&fontSize=55&fontAlignY=35&desc=◂%20SOFTWARE%20ENGINEER%20▸&descAlignY=55&descSize=18&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1500&color=00FF9F&center=true&vCenter=true&width=500&height=45&lines=PLAYER+1%3A+YAHIA;LV.+99+SOFTWARE+ENGINEER;INSERT+COFFEE+TO+PLAY" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/header.svg" alt="YAHYA8BIT — Software Engineer" width="100%" />
 </p>
 
 <div align="center">
@@ -17,16 +13,9 @@
 
 ## `> PLAYER_PROFILE.exe`
 
-```yaml
-player:
-  name: "Yahia"
-  class: "Software Engineer"
-  special_ability: "Turns coffee into code"
-  current_quest: "Building software that survives production"
-  side_quest: "Mastering AI/ML one model at a time"
-  weakness: "Cannot resist refactoring"
-  status: "ONLINE — accepting new quests"
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/player_profile.svg" alt="Player profile: Yahia" width="100%" />
+</p>
 
 <br>
 
