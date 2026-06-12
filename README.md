@@ -21,42 +21,9 @@
 
 ## `> SKILL_TREE.dat`
 
-```text
-══════════════════ LANGUAGES ══════════════════
-
-  Python        ████████████████░░░░   LV.8
-  Java          ████████████████░░░░   LV.8
-  C / C++       ████████████████░░░░   LV.8
-  SQL           ████████████████░░░░   LV.8
-  JavaScript    ██████████████░░░░░░   LV.7
-  PHP           ██████████████░░░░░░   LV.7
-```
-
-```text
-═══════════════ BACKEND & APIs ════════════════
-
-  REST APIs     ██████████████████░░   LV.9
-  Spring Boot   ████████████████░░░░   LV.8
-  FastAPI       ████████████████░░░░   LV.8
-```
-
-```text
-═══════════════ AI / ML MAGIC ═════════════════
-
-  Pandas        ██████████████████░░   LV.9
-  scikit-learn  ████████████████░░░░   LV.8
-  XGBoost       ██████████████░░░░░░   LV.7
-  HuggingFace   ██████████████░░░░░░   LV.7
-  Gradio        ████████████░░░░░░░░   LV.6
-```
-
-```text
-═══════════════ FRONTEND & UI ═════════════════
-
-  HTML5         ████████████████░░░░   LV.8
-  CSS3          ██████████████░░░░░░   LV.7
-  Qt Designer   ████████████░░░░░░░░   LV.6
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/skill_tree.svg" alt="Skill tree with XP bars" width="100%" />
+</p>
 
 <details>
 <summary><b>🎒 OPEN INVENTORY — Tools & Platforms</b></summary>
