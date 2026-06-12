@@ -1,0 +1,127 @@
+<svg viewBox="0 0 880 230" width="880" height="230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="YAHYA8BIT — Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b0a1f"/>
+      <stop offset="55%" stop-color="#141034"/>
+      <stop offset="100%" stop-color="#1d1145"/>
+    </linearGradient>
+    <linearGradient id="gridFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00ff9f" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#00ff9f" stop-opacity="0.55"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowSoft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="frame"><rect x="0" y="0" width="880" height="230" rx="14"/></clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace; }
+    .title { font-size: 64px; font-weight: 800; letter-spacing: 10px; fill: #00ff9f; }
+    .sub { font-size: 17px; font-weight: 600; letter-spacing: 8px; fill: #9d8cff; }
+    .start { font-size: 14px; font-weight: 700; letter-spacing: 6px; fill: #ffd24a; }
+    .lvl { font-size: 13px; font-weight: 800; letter-spacing: 5px; fill: #ffd24a; }
+    .flicker { animation: flick 6s linear infinite; }
+    @keyframes flick {
+      0%, 92%, 96%, 100% { opacity: 1; }
+      93%, 95% { opacity: 0.55; }
+    }
+    .blink { animation: blink 1.4s steps(1) infinite; }
+    @keyframes blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
+    .gridMove { animation: slide 3.2s linear infinite; }
+    @keyframes slide { from { transform: translateY(0); } to { transform: translateY(22px); } }
+    .tw { animation: tw 3s ease-in-out infinite; }
+    .tw.d1 { animation-delay: .6s; } .tw.d2 { animation-delay: 1.2s; }
+    .tw.d3 { animation-delay: 1.8s; } .tw.d4 { animation-delay: 2.4s; }
+    @keyframes tw { 0%,100% { opacity: .15; } 50% { opacity: .95; } }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="880" height="230" fill="url(#bg)"/>
+
+    <!-- twinkling pixel stars -->
+    <g fill="#aef7ff">
+      <rect class="tw"    x="70"  y="34" width="3" height="3"/>
+      <rect class="tw d1" x="180" y="62" width="2" height="2"/>
+      <rect class="tw d2" x="320" y="28" width="3" height="3"/>
+      <rect class="tw d3" x="560" y="40" width="2" height="2"/>
+      <rect class="tw d4" x="700" y="26" width="3" height="3"/>
+      <rect class="tw d2" x="800" y="58" width="2" height="2"/>
+      <rect class="tw d1" x="430" y="18" width="2" height="2"/>
+      <rect class="tw d3" x="120" y="96" width="2" height="2"/>
+      <rect class="tw d4" x="760" y="92" width="2" height="2"/>
+    </g>
+
+    <!-- synthwave floor grid -->
+    <g opacity="0.8">
+      <g class="gridMove" stroke="url(#gridFade)" stroke-width="1">
+        <line x1="0" y1="158" x2="880" y2="158"/>
+        <line x1="0" y1="180" x2="880" y2="180"/>
+        <line x1="0" y1="202" x2="880" y2="202"/>
+        <line x1="0" y1="224" x2="880" y2="224"/>
+        <line x1="0" y1="246" x2="880" y2="246"/>
+      </g>
+      <g stroke="#00ff9f" stroke-opacity="0.28" stroke-width="1">
+        <line x1="440" y1="160" x2="440" y2="230"/>
+        <line x1="440" y1="160" x2="330" y2="230"/>
+        <line x1="440" y1="160" x2="220" y2="230"/>
+        <line x1="440" y1="160" x2="90"  y2="230"/>
+        <line x1="440" y1="160" x2="-60" y2="230"/>
+        <line x1="440" y1="160" x2="550" y2="230"/>
+        <line x1="440" y1="160" x2="660" y2="230"/>
+        <line x1="440" y1="160" x2="790" y2="230"/>
+        <line x1="440" y1="160" x2="940" y2="230"/>
+      </g>
+    </g>
+
+    <!-- title -->
+    <g class="flicker">
+      <text x="440" y="88" text-anchor="middle" class="mono title" filter="url(#glow)">YAHYA8BIT</text>
+    </g>
+    <text x="440" y="120" text-anchor="middle" class="mono sub" filter="url(#glowSoft)">&#9666; SOFTWARE ENGINEER &#9656;</text>
+
+    <!-- LVL 99 badge -->
+    <rect x="352" y="133" width="176" height="26" rx="13" fill="#ffd24a" fill-opacity="0.10" stroke="#ffd24a" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="440" y="151" text-anchor="middle" class="mono lvl" filter="url(#glowSoft)">&#9733; LVL 99 &#9733;</text>
+
+    <!-- press start -->
+    <text x="440" y="200" text-anchor="middle" class="mono start blink" filter="url(#glowSoft)">&#9654; PRESS START &#9664;</text>
+
+    <!-- CRT scanlines -->
+    <g opacity="0.10" fill="#000000">
+      <rect x="0" y="0"   width="880" height="2"/><rect x="0" y="6"   width="880" height="2"/>
+      <rect x="0" y="12"  width="880" height="2"/><rect x="0" y="18"  width="880" height="2"/>
+      <rect x="0" y="24"  width="880" height="2"/><rect x="0" y="30"  width="880" height="2"/>
+      <rect x="0" y="36"  width="880" height="2"/><rect x="0" y="42"  width="880" height="2"/>
+      <rect x="0" y="48"  width="880" height="2"/><rect x="0" y="54"  width="880" height="2"/>
+      <rect x="0" y="60"  width="880" height="2"/><rect x="0" y="66"  width="880" height="2"/>
+      <rect x="0" y="72"  width="880" height="2"/><rect x="0" y="78"  width="880" height="2"/>
+      <rect x="0" y="84"  width="880" height="2"/><rect x="0" y="90"  width="880" height="2"/>
+      <rect x="0" y="96"  width="880" height="2"/><rect x="0" y="102" width="880" height="2"/>
+      <rect x="0" y="108" width="880" height="2"/><rect x="0" y="114" width="880" height="2"/>
+      <rect x="0" y="120" width="880" height="2"/><rect x="0" y="126" width="880" height="2"/>
+      <rect x="0" y="132" width="880" height="2"/><rect x="0" y="138" width="880" height="2"/>
+      <rect x="0" y="144" width="880" height="2"/><rect x="0" y="150" width="880" height="2"/>
+      <rect x="0" y="156" width="880" height="2"/><rect x="0" y="162" width="880" height="2"/>
+      <rect x="0" y="168" width="880" height="2"/><rect x="0" y="174" width="880" height="2"/>
+      <rect x="0" y="180" width="880" height="2"/><rect x="0" y="186" width="880" height="2"/>
+      <rect x="0" y="192" width="880" height="2"/><rect x="0" y="198" width="880" height="2"/>
+      <rect x="0" y="204" width="880" height="2"/><rect x="0" y="210" width="880" height="2"/>
+      <rect x="0" y="216" width="880" height="2"/><rect x="0" y="222" width="880" height="2"/>
+    </g>
+
+    <!-- frame border -->
+    <rect x="1" y="1" width="878" height="228" rx="13" fill="none" stroke="#00ff9f" stroke-opacity="0.35" stroke-width="2"/>
+  </g>
+</svg>
