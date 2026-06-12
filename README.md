@@ -43,7 +43,7 @@
   </a>
 </p>
 
-> ✏️ To customize: open `assets/quest_board.svg` and edit the `PROJECT NAME` and description text directly — it's plain text inside the file.
+
 
 <br>
 
