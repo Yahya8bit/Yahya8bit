@@ -1,6 +1,6 @@
 <!-- ░▒▓ PRESS START ▓▒░ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/header.svg" alt="YAHYA8BIT — Software Engineer" width="100%" />
+  <img src="https://yahya8bit.github.io/Yahya8bit/assets/header.svg" alt="YAHYA8BIT — Software Engineer" width="100%" />
 </p>
 
 <div align="center">
@@ -14,7 +14,7 @@
 ## `> PLAYER_PROFILE.exe`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/player_profile.svg" alt="Player profile: Yahia" width="100%" />
+  <img src="https://yahya8bit.github.io/Yahya8bit/assets/player_profile.svg" alt="Player profile: Yahia" width="100%" />
 </p>
 
 <br>
@@ -22,7 +22,7 @@
 ## `> SKILL_TREE.dat`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/skill_tree.svg" alt="Skill tree with XP bars" width="100%" />
+  <img src="https://yahya8bit.github.io/Yahya8bit/assets/skill_tree.svg" alt="Skill tree with XP bars" width="100%" />
 </p>
 
 <br>
@@ -30,7 +30,7 @@
 ## `> INVENTORY.bag`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/inventory.svg" alt="Inventory: tools and platforms" width="100%" />
+  <img src="https://yahya8bit.github.io/Yahya8bit/assets/inventory.svg" alt="Inventory: tools and platforms" width="100%" />
 </p>
 
 <br>
@@ -39,11 +39,11 @@
 
 <p align="center">
   <a href="https://github.com/Yahya8bit?tab=repositories">
-    <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/quest_board.svg" alt="Completed quests / projects" width="100%" />
+    <img src="https://yahya8bit.github.io/Yahya8bit/assets/quest_board.svg" alt="Completed quests / projects" width="100%" />
   </a>
 </p>
 
-
+> ✏️ To customize: open `assets/quest_board.svg` and edit the `PROJECT NAME` and description text directly — it's plain text inside the file.
 
 <br>
 
@@ -76,18 +76,18 @@
 
 <br>
 
-<a href="https://github.com/Yahya8bit"><img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/btn_github.svg" alt="GitHub: Yahya8bit" /></a>
+<a href="https://github.com/Yahya8bit"><img src="https://yahya8bit.github.io/Yahya8bit/assets/btn_github.svg" alt="GitHub: Yahya8bit" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/yahya-gazzeh-348328305/"><img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/btn_linkedin.svg" alt="LinkedIn: connect" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://yahya8bit.github.io/Yahya8bit/assets/btn_linkedin.svg" alt="LinkedIn: connect" /></a>
 &nbsp;
-<a href="mailto:mohamedyahia.gazzah@ensi-uma.tn"><img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/btn_email.svg" alt="Email: say hi" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://yahya8bit.github.io/Yahya8bit/assets/btn_email.svg" alt="Email: say hi" /></a>
 
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yahya8bit/Yahya8bit/main/assets/footer.svg" alt="Game over? Never." width="100%" />
+  <img src="https://yahya8bit.github.io/Yahya8bit/assets/footer.svg" alt="Game over? Never." width="100%" />
 </p>
 
 <p align="center">
