@@ -1,0 +1,87 @@
+<svg viewBox="0 0 880 274" width="880" height="274" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Inventory: tools and platforms">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace; }
+    .ttl { fill: #8b949e; font-size: 13px; letter-spacing: 2px; font-weight: 700; }
+    .glyph { font-size: 22px; font-weight: 800; letter-spacing: 1px; }
+    .iname { font-size: 12px; fill: #8b949e; }
+    .slot { animation: drop .45s ease-out both; }
+    @keyframes drop { from { opacity: 0; transform: translateY(-8px); } to { opacity: 1; transform: translateY(0); } }
+  </style>
+  <rect x="10" y="10" width="860" height="254" rx="14" fill="#0d1117" stroke="#21262d" stroke-width="1.5" filter="url(#shadow)"/>
+  <rect x="10" y="10" width="860" height="40" rx="14" fill="#161b22"/>
+  <rect x="10" y="36" width="860" height="14" fill="#161b22"/>
+  <circle cx="38" cy="30" r="6.5" fill="#ff5f56"/>
+  <circle cx="60" cy="30" r="6.5" fill="#ffbd2e"/>
+  <circle cx="82" cy="30" r="6.5" fill="#27c93f"/>
+  <text x="440" y="35" text-anchor="middle" class="mono ttl">INVENTORY.bag</text>
+<g class="slot" style="animation-delay:0.25s">
+  <rect x="24" y="72" width="132" height="84" rx="9" fill="#11161f" stroke="#2a3450" stroke-width="1.2"/>
+  <rect x="24" y="72" width="132" height="3" fill="#f05032" opacity="0.85"/>
+  <text x="90.0" y="112" text-anchor="middle" class="mono glyph" fill="#f05032" filter="url(#glow)">GIT</text>
+  <text x="90.0" y="138" text-anchor="middle" class="mono iname">Git</text>
+</g><g class="slot" style="animation-delay:0.32s">
+  <rect x="164" y="72" width="132" height="84" rx="9" fill="#11161f" stroke="#2a3450" stroke-width="1.2"/>
+  <rect x="164" y="72" width="132" height="3" fill="#c9d1d9" opacity="0.85"/>
+  <text x="230.0" y="112" text-anchor="middle" class="mono glyph" fill="#c9d1d9" filter="url(#glow)">GH</text>
+  <text x="230.0" y="138" text-anchor="middle" class="mono iname">GitHub</text>
+</g><g class="slot" style="animation-delay:0.39s">
+  <rect x="304" y="72" width="132" height="84" rx="9" fill="#11161f" stroke="#2a3450" stroke-width="1.2"/>
+  <rect x="304" y="72" width="132" height="3" fill="#3fa9f5" opacity="0.85"/>
+  <text x="370.0" y="112" text-anchor="middle" class="mono glyph" fill="#3fa9f5" filter="url(#glow)">VS</text>
+  <text x="370.0" y="138" text-anchor="middle" class="mono iname">VSCode</text>
+</g><g class="slot" style="animation-delay:0.46s">
+  <rect x="444" y="72" width="132" height="84" rx="9" fill="#11161f" stroke="#2a3450" stroke-width="1.2"/>
+  <rect x="444" y="72" width="132" height="3" fill="#21d789" opacity="0.85"/>
+  <text x="510.0" y="112" text-anchor="middle" class="mono glyph" fill="#21d789" filter="url(#glow)">PY</text>
+  <text x="510.0" y="138" text-anchor="middle" class="mono iname">PyCharm</text>
+</g><g class="slot" style="animation-delay:0.53s">
+  <rect x="584" y="72" width="132" height="84" rx="9" fill="#11161f" stroke="#2a3450" stroke-width="1.2"/>
+  <rect x="584" y="72" width="132" height="3" fill="#fe315d" opacity="0.85"/>
+  <text x="650.0" y="112" text-anchor="middle" class="mono glyph" fill="#fe315d" filter="url(#glow)">IJ</text>
+  <text x="650.0" y="138" text-anchor="middle" class="mono iname">IntelliJ</text>
+</g><g class="slot" style="animation-delay:0.60s">
+  <rect x="724" y="72" width="132" height="84" rx="9" fill="#11161f" stroke="#2a3450" stroke-width="1.2"/>
+  <rect x="724" y="72" width="132" height="3" fill="#9775fa" opacity="0.85"/>
+  <text x="790.0" y="112" text-anchor="middle" class="mono glyph" fill="#9775fa" filter="url(#glow)">DG</text>
+  <text x="790.0" y="138" text-anchor="middle" class="mono iname">DataGrip</text>
+</g><g class="slot" style="animation-delay:0.67s">
+  <rect x="24" y="164" width="132" height="84" rx="9" fill="#11161f" stroke="#2a3450" stroke-width="1.2"/>
+  <rect x="24" y="164" width="132" height="3" fill="#00cdd7" opacity="0.85"/>
+  <text x="90.0" y="204" text-anchor="middle" class="mono glyph" fill="#00cdd7" filter="url(#glow)">CL</text>
+  <text x="90.0" y="230" text-anchor="middle" class="mono iname">CLion</text>
+</g><g class="slot" style="animation-delay:0.74s">
+  <rect x="164" y="164" width="132" height="84" rx="9" fill="#11161f" stroke="#2a3450" stroke-width="1.2"/>
+  <rect x="164" y="164" width="132" height="3" fill="#fb7a24" opacity="0.85"/>
+  <text x="230.0" y="204" text-anchor="middle" class="mono glyph" fill="#fb7a24" filter="url(#glow)">XA</text>
+  <text x="230.0" y="230" text-anchor="middle" class="mono iname">XAMPP</text>
+</g><g class="slot" style="animation-delay:0.81s">
+  <rect x="304" y="164" width="132" height="84" rx="9" fill="#11161f" stroke="#2a3450" stroke-width="1.2"/>
+  <rect x="304" y="164" width="132" height="3" fill="#5a9fd4" opacity="0.85"/>
+  <text x="370.0" y="204" text-anchor="middle" class="mono glyph" fill="#5a9fd4" filter="url(#glow)">SQL</text>
+  <text x="370.0" y="230" text-anchor="middle" class="mono iname">MySQL WB</text>
+</g><g class="slot" style="animation-delay:0.88s">
+  <rect x="444" y="164" width="132" height="84" rx="9" fill="#11161f" stroke="#2a3450" stroke-width="1.2"/>
+  <rect x="444" y="164" width="132" height="3" fill="#f37626" opacity="0.85"/>
+  <text x="510.0" y="204" text-anchor="middle" class="mono glyph" fill="#f37626" filter="url(#glow)">JY</text>
+  <text x="510.0" y="230" text-anchor="middle" class="mono iname">Jupyter</text>
+</g><g class="slot" style="animation-delay:0.95s">
+  <rect x="584" y="164" width="132" height="84" rx="9" fill="#11161f" stroke="#2a3450" stroke-width="1.2"/>
+  <rect x="584" y="164" width="132" height="3" fill="#b39ddb" opacity="0.85"/>
+  <text x="650.0" y="204" text-anchor="middle" class="mono glyph" fill="#b39ddb" filter="url(#glow)">EC</text>
+  <text x="650.0" y="230" text-anchor="middle" class="mono iname">Eclipse</text>
+</g><g class="slot" style="animation-delay:1.02s">
+  <rect x="724" y="164" width="132" height="84" rx="9" fill="#11161f" stroke="#2a3450" stroke-width="1.2"/>
+  <rect x="724" y="164" width="132" height="3" fill="#8ab4f8" opacity="0.85"/>
+  <text x="790.0" y="204" text-anchor="middle" class="mono glyph" fill="#8ab4f8" filter="url(#glow)">CB</text>
+  <text x="790.0" y="230" text-anchor="middle" class="mono iname">Code::Blocks</text>
+</g>
+</svg>
