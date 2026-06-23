@@ -36,7 +36,7 @@
     <rect x="30" y="72" width="100" height="24" rx="12" fill="#00ff9f" fill-opacity="0.12" stroke="#00ff9f" stroke-opacity="0.5" stroke-width="1.2"/>
     <text x="80" y="89" text-anchor="middle" class="mono status" fill="#00ff9f">✓ CLEARED</text>
     <text x="148" y="89" class="mono qtitle">ENSI Guide Orientation</text>
-    <text x="148" y="112" class="mono qdesc">A website to help new students coming from prepa to learn about ENSI</text>
+    <text x="148" y="112" class="mono qdesc">Orientation guide for new ENSI students</text>
     <rect x="455" y="82" width="56" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/>
     <text x="483" y="97" text-anchor="middle" class="mono chip">HTML</text>
     <rect x="521" y="82" width="49" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/>
@@ -72,7 +72,7 @@
     <rect x="30" y="264" width="100" height="24" rx="12" fill="#ffd24a" fill-opacity="0.12" stroke="#ffd24a" stroke-opacity="0.5" stroke-width="1.2"/>
     <text x="80" y="281" text-anchor="middle" class="mono status" fill="#ffd24a">● ACTIVE</text>
     <text x="148" y="281" class="mono qtitle">P-Guard Monitor</text>
-    <text x="148" y="304" class="mono qdesc">Currently in development...  </text>
+    <text x="148" y="304" class="mono qdesc">Currently in development...</text>
     <rect x="455" y="274" width="63" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/>
     <text x="486" y="289" text-anchor="middle" class="mono chip">React</text>
     <rect x="528" y="274" width="77" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/>
