@@ -29,29 +29,56 @@
   <circle cx="82" cy="30" r="6.5" fill="#27c93f"/>
   <text x="440" y="35" text-anchor="middle" class="mono ttl">QUESTS_COMPLETED.log</text>
 
+  <!-- CARD 1 : ENSI Guide Orientation -->
   <g class="card" style="animation-delay:0.25s">
-  <rect x="24" y="64" width="832" height="82" rx="10" fill="#11161f" stroke="#21262d" stroke-width="1"/>
-  <rect x="24" y="64" width="4" height="82" rx="2" fill="#00ff9f"/>
-  <rect x="30" y="72" width="100" height="24" rx="12" fill="#00ff9f" fill-opacity="0.12" stroke="#00ff9f" stroke-opacity="0.5" stroke-width="1.2"/><text x="80.0" y="89" text-anchor="middle" class="mono status" fill="#00ff9f">✓ CLEARED</text>
-  <text x="148" y="89" class="mono qtitle">Ensi Guide Orientation</text><text x="148" y="112" class="mono qdesc">A website to help new students coming from prepa to learn about ENSI</text>
-  <rect x="560.0" y="82" width="92.0" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/><text x="606.0" y="97" text-anchor="middle" class="mono chip">AI Chatbot</text><rect x="660.0" y="82" width="84.2" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/><text x="702.1" y="97" text-anchor="middle" class="mono chip">Streamlit</text>
-  <text x="846" y="94" text-anchor="end" class="mono xp" fill="#00ff9f" filter="url(#glow)">+500 XP</text>
-  <line x1="28" y1="147" x2="852" y2="147" stroke="#21262d" stroke-width="1"/>
-</g><g class="card" style="animation-delay:0.43s">
-  <rect x="24" y="160" width="832" height="82" rx="10" fill="#11161f" stroke="#21262d" stroke-width="1"/>
-  <rect x="24" y="160" width="4" height="82" rx="2" fill="#00ff9f"/>
-  <rect x="30" y="168" width="100" height="24" rx="12" fill="#00ff9f" fill-opacity="0.12" stroke="#00ff9f" stroke-opacity="0.5" stroke-width="1.2"/><text x="80.0" y="185" text-anchor="middle" class="mono status" fill="#00ff9f">✓ CLEARED</text>
-  <text x="148" y="185" class="mono qtitle">G&amp;Y Sole</text><text x="148" y="208" class="mono qdesc">E-commerce webapp for sneakers</text>
-  <rect x="560.0" y="178" width="60.8" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/><text x="590.4" y="193" text-anchor="middle" class="mono chip">Python</text><rect x="628.8" y="178" width="68.6" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/><text x="663.1" y="193" text-anchor="middle" class="mono chip">FastAPI</text>
-  <text x="846" y="190" text-anchor="end" class="mono xp" fill="#00ff9f" filter="url(#glow)">+450 XP</text>
-  <line x1="28" y1="243" x2="852" y2="243" stroke="#21262d" stroke-width="1"/>
-</g><g class="card" style="animation-delay:0.61s">
-  <rect x="24" y="256" width="832" height="82" rx="10" fill="#11161f" stroke="#21262d" stroke-width="1"/>
-  <rect x="24" y="256" width="4" height="82" rx="2" fill="#ffd24a"/>
-  <rect x="30" y="264" width="100" height="24" rx="12" fill="#ffd24a" fill-opacity="0.12" stroke="#ffd24a" stroke-opacity="0.5" stroke-width="1.2"/><text x="80.0" y="281" text-anchor="middle" class="mono status" fill="#ffd24a">● ACTIVE</text>
-  <text x="148" y="281" class="mono qtitle">P-Guard Monitor</text><text x="148" y="304" class="mono qdesc">Currently in development...</text>
-  <rect x="560.0" y="274" width="92.0" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/><text x="606.0" y="289" text-anchor="middle" class="mono chip">Full Stack</text>
-  <text x="846" y="286" text-anchor="end" class="mono xp" fill="#ffd24a" filter="url(#glow)">+??? XP</text>
-  
-</g>
+    <rect x="24" y="64" width="832" height="82" rx="10" fill="#11161f" stroke="#21262d" stroke-width="1"/>
+    <rect x="24" y="64" width="4" height="82" rx="2" fill="#00ff9f"/>
+    <rect x="30" y="72" width="100" height="24" rx="12" fill="#00ff9f" fill-opacity="0.12" stroke="#00ff9f" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="80" y="89" text-anchor="middle" class="mono status" fill="#00ff9f">✓ CLEARED</text>
+    <text x="148" y="89" class="mono qtitle">ENSI Guide Orientation</text>
+    <text x="148" y="112" class="mono qdesc">A website to help new students coming from prepa to learn about ENSI</text>
+    <rect x="455" y="82" width="56" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/>
+    <text x="483" y="97" text-anchor="middle" class="mono chip">HTML</text>
+    <rect x="521" y="82" width="49" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/>
+    <text x="545.5" y="97" text-anchor="middle" class="mono chip">CSS</text>
+    <rect x="580" y="82" width="42" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/>
+    <text x="601" y="97" text-anchor="middle" class="mono chip">JS</text>
+    <text x="846" y="94" text-anchor="end" class="mono xp" fill="#00ff9f" filter="url(#glow)">+500 XP</text>
+    <line x1="28" y1="147" x2="852" y2="147" stroke="#21262d" stroke-width="1"/>
+  </g>
+
+  <!-- CARD 2 : G&Y Sole -->
+  <g class="card" style="animation-delay:0.43s">
+    <rect x="24" y="160" width="832" height="82" rx="10" fill="#11161f" stroke="#21262d" stroke-width="1"/>
+    <rect x="24" y="160" width="4" height="82" rx="2" fill="#00ff9f"/>
+    <rect x="30" y="168" width="100" height="24" rx="12" fill="#00ff9f" fill-opacity="0.12" stroke="#00ff9f" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="80" y="185" text-anchor="middle" class="mono status" fill="#00ff9f">✓ CLEARED</text>
+    <text x="148" y="185" class="mono qtitle">G&amp;Y Sole</text>
+    <text x="148" y="208" class="mono qdesc">E-commerce webapp for sneakers</text>
+    <rect x="455" y="178" width="63" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/>
+    <text x="486" y="193" text-anchor="middle" class="mono chip">React</text>
+    <rect x="528" y="178" width="49" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/>
+    <text x="552" y="193" text-anchor="middle" class="mono chip">PHP</text>
+    <rect x="587" y="178" width="63" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/>
+    <text x="618" y="193" text-anchor="middle" class="mono chip">MySQL</text>
+    <text x="846" y="190" text-anchor="end" class="mono xp" fill="#00ff9f" filter="url(#glow)">+450 XP</text>
+    <line x1="28" y1="243" x2="852" y2="243" stroke="#21262d" stroke-width="1"/>
+  </g>
+
+  <!-- CARD 3 : P-Guard Monitor -->
+  <g class="card" style="animation-delay:0.61s">
+    <rect x="24" y="256" width="832" height="82" rx="10" fill="#11161f" stroke="#21262d" stroke-width="1"/>
+    <rect x="24" y="256" width="4" height="82" rx="2" fill="#ffd24a"/>
+    <rect x="30" y="264" width="100" height="24" rx="12" fill="#ffd24a" fill-opacity="0.12" stroke="#ffd24a" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="80" y="281" text-anchor="middle" class="mono status" fill="#ffd24a">● ACTIVE</text>
+    <text x="148" y="281" class="mono qtitle">P-Guard Monitor</text>
+    <text x="148" y="304" class="mono qdesc">Currently in development...  </text>
+    <rect x="455" y="274" width="63" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/>
+    <text x="486" y="289" text-anchor="middle" class="mono chip">React</text>
+    <rect x="528" y="274" width="77" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/>
+    <text x="566.5" y="289" text-anchor="middle" class="mono chip">FastAPI</text>
+    <rect x="615" y="274" width="98" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/>
+    <text x="664" y="289" text-anchor="middle" class="mono chip">PostgreSQL</text>
+    <text x="846" y="286" text-anchor="end" class="mono xp" fill="#ffd24a" filter="url(#glow)">+??? XP</text>
+  </g>
 </svg>
