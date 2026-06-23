@@ -41,7 +41,7 @@
   <rect x="24" y="160" width="832" height="82" rx="10" fill="#11161f" stroke="#21262d" stroke-width="1"/>
   <rect x="24" y="160" width="4" height="82" rx="2" fill="#00ff9f"/>
   <rect x="30" y="168" width="100" height="24" rx="12" fill="#00ff9f" fill-opacity="0.12" stroke="#00ff9f" stroke-opacity="0.5" stroke-width="1.2"/><text x="80.0" y="185" text-anchor="middle" class="mono status" fill="#00ff9f">✓ CLEARED</text>
-  <text x="148" y="185" class="mono qtitle">G&Y Sole</text><text x="148" y="208" class="mono qdesc">E-commerce website for sneakers</text>
+  <text x="148" y="185" class="mono qtitle">G&amp;Y Sole</text><text x="148" y="208" class="mono qdesc">E-commerce website for sneakers</text>
   <rect x="560.0" y="178" width="60.8" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/><text x="590.4" y="193" text-anchor="middle" class="mono chip">Python</text><rect x="628.8" y="178" width="68.6" height="22" rx="11" fill="#1b2230" stroke="#2a3450" stroke-width="1"/><text x="663.1" y="193" text-anchor="middle" class="mono chip">FastAPI</text>
   <text x="846" y="190" text-anchor="end" class="mono xp" fill="#00ff9f" filter="url(#glow)">+450 XP</text>
   <line x1="28" y1="243" x2="852" y2="243" stroke="#21262d" stroke-width="1"/>
