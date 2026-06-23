@@ -78,9 +78,9 @@
 
 <a href="https://github.com/Yahya8bit"><img src="https://yahya8bit.github.io/Yahya8bit/assets/btn_github.svg" alt="GitHub: Yahya8bit" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://yahya8bit.github.io/Yahya8bit/assets/btn_linkedin.svg" alt="LinkedIn: connect" /></a>
+<a href="https://www.linkedin.com/in/yahya-gazzeh-348328305"><img src="https://yahya8bit.github.io/Yahya8bit/assets/btn_linkedin.svg" alt="LinkedIn: connect" /></a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL"><img src="https://yahya8bit.github.io/Yahya8bit/assets/btn_email.svg" alt="Email: say hi" /></a>
+<a href="mailto:mohamedyahia.gazzah@gmail.com"><img src="https://yahya8bit.github.io/Yahya8bit/assets/btn_email.svg" alt="Email: say hi" /></a>
 
 </div>
 
